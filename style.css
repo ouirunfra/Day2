@@ -1,0 +1,19 @@
+body{
+  background-color: #6eedec;
+  background-size: cover;
+  height: 100vh;
+}
+h1 {
+  color:white;
+  font-size: 80px;
+  display: flex;
+  justify-content:center;
+  font-family: "futura";
+}
+h2 {
+  color: white;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  font-family: "futura";
+}
